@@ -18,7 +18,7 @@ const romaji = [
     'a',  'i',  'u',  'e',  'o',
     'ka', 'ki', 'ku', 'ke', 'ko',
     'sa', 'shi', 'su', 'se', 'so',
-    'ta', 'chu', 'tsu', 'te', 'to',
+    'ta', 'chi', 'tsu', 'te', 'to',
     'na', 'ni', 'nu', 'ne', 'no',
     'ha', 'hi', 'fu', 'he', 'ho',
     'ma', 'mi', 'mu', 'me', 'mo',
